@@ -14,6 +14,7 @@ namespace ConsoleApp1
             int los = rnd.Next(1, 11);
             int number;
             int row = 1;
+            Console.WriteLine("WITAJ W GRZE 'ZGADNIJ LICZBĘ'");
             Console.WriteLine("Podaj Liczbę z zakresu 1 do 10:");
 
             do
